@@ -16,7 +16,7 @@
 * 개발 도구: Eclipse, Tomcat 9.0.86, eXERD
 
 ### 🔸 ERD
-![erd](https://github.com/blseptw/swifi/assets/139880448/74377bfe-ba1c-4a56-b10d-e8d9cac2a164)
+<img width="700" alt="erd" src="https://github.com/blseptw/-swifi/assets/139880448/770c30ac-7f42-443c-aa32-8e954973ad0e">
 
 ### 🔸 구현 이미지
 ![GIFMaker_me (2)](https://github.com/blseptw/public-wifi/assets/139880448/f49fef70-3dfd-4fbe-adea-8c94001e0e53)
